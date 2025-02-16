@@ -4,8 +4,8 @@ import com.dev.services.dto.ProductDto;
 import com.dev.services.entities.Product;
 import org.mapstruct.Mapper;
 
-@Mapper
+@Mapper(componentModel = "spring")
 public interface ProductMapper {
     ProductDto toProductDto(Product product);
-    Product fromProduct(ProductDto produitDto);
+    Product fromProduct(ProductDto productDto);
 }
