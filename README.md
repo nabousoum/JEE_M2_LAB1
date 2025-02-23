@@ -120,6 +120,15 @@ Pour activer les logs dans `application.properties` :
 logging.level.org.springframework=DEBUG
 logging.file.name=logs/logs.log
 ```
+Captures
+
+
+![Screenshot 2025-02-23 003027](https://github.com/user-attachments/assets/3c107d5a-d817-4cda-9f2c-8b2ef0acb912)
+![Screenshot 2025-02-23 191623](https://github.com/user-attachments/assets/e29cb0d6-6675-4d78-83f7-92db185cbd1c)
+![Screenshot 2025-02-23 195539](https://github.com/user-attachments/assets/7b278831-bf6f-4427-8f08-deb0f720c490)
+![Screenshot 2025-02-23 195557](https://github.com/user-attachments/assets/21bfc781-0524-405a-9b1a-cae3acfda8e1)
+![Screenshot 2025-02-23 195636](https://github.com/user-attachments/assets/9823bf1b-faa2-4e81-9ec1-f9566ba95c82)
+![Screenshot 2025-02-23 195832](https://github.com/user-attachments/assets/e8f82038-dff9-4644-9976-cc12867002b5)
 
 Auteurs
 Seynabou SOUMARE
